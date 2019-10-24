@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #42f2ff;
+}
+
+#screen-width, #screen-height {
+  color: white;
+}
+
+.container1 {
+  padding: 15px;
+  background-color: #9898e9;
+  color: #3f4649;
+  display: inline-block;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.container2 {
+  padding: 15px;
+  background-color: #9898e9;
+  color: #3f4649;
+  display: inline-block;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.updateButton {
+  padding: 15px;
+  cursor: pointer;
+  font-weight: bold;
+  border: none;
+  background-color: #3636f0;
+  color: #33cccc;
+  display: inline-block;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  -webkit-transform: transLateX(-50%);
+          transform: transLateX(-50%);
+}
+/*# sourceMappingURL=main.css.map */
